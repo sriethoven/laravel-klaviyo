@@ -45,11 +45,5 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
-    "repositories": [                                             
-        {                                                         
-            "type": "vcs",                                        
-            "url": "git@github.com:sriethoven/laravel-klaviyo.git"
-        }                                                         
-    ]
+    "prefer-stable": true
 }
