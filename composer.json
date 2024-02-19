@@ -1,5 +1,5 @@
 {
-    "name": "eonvisualmedia/laravel-klaviyo",
+    "name": "sriethoven/laravel-klaviyo",
     "description": "Interact with the Klaviyo API from your Laravel app",
     "license": "MIT",
     "authors": [
@@ -45,5 +45,11 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "repositories": [                                             
+        {                                                         
+            "type": "vcs",                                        
+            "url": "git@github.com:sriethoven/laravel-klaviyo.git"
+        }                                                         
+    ]
 }
